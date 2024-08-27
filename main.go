@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/arthur404dev/gopportunities/router"
-)
+import "github.com/magrininicolas/gopportunities-tutorial/router"
 
 func main() {
 	router.Initialize()

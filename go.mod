@@ -1,4 +1,4 @@
-module github.com/arthur404dev/gopportunities
+module github.com/magrininicolas/gopportunities-tutorial
 
 go 1.23.0
 
